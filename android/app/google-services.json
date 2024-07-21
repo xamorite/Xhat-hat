@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906277108331",
+    "project_id": "chatio-83873",
+    "storage_bucket": "chatio-83873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906277108331:android:e323592307fe1089fa4f2e",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_two"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAQaJ5tsRG-JawMTjpVRuW6vdL606Hng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
